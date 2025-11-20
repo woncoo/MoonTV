@@ -11,7 +11,7 @@ const publicDir = path.join(projectRoot, 'public');
 const manifestPath = path.join(publicDir, 'manifest.json');
 
 // 从环境变量获取站点名称
-  = .. || '影迷俱乐部';
+  = .. || 'MoonTV';
 
 
   = {
